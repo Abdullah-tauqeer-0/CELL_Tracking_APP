@@ -1,2 +1,3 @@
 - 2025-04-29: Add batch processing support
 - 2025-05-01: Add dark mode support
+- 2025-05-04: Add support for TIFF stacks
