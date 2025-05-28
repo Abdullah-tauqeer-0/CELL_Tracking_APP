@@ -8,3 +8,4 @@
 - 2025-05-17: Optimize tracking performance
 - 2025-05-21: Update unit tests
 - 2025-05-25: Update documentation
+- 2025-05-28: Improve detection accuracy
