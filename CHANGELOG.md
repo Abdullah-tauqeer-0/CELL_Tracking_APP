@@ -10,3 +10,4 @@
 - 2025-05-25: Update documentation
 - 2025-05-28: Improve detection accuracy
 - 2025-05-30: Optimize tracking performance
+- 2025-06-03: Add track editing features
