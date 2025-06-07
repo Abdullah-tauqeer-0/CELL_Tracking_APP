@@ -12,3 +12,4 @@
 - 2025-05-30: Optimize tracking performance
 - 2025-06-03: Add track editing features
 - 2025-06-05: Refactor metrics calculation
+- 2025-06-07: Add dark mode support
