@@ -15,3 +15,4 @@
 - 2025-06-07: Add dark mode support
 - 2025-06-11: Add support for TIFF stacks
 - 2025-06-14: Add progress bar to analysis
+- 2025-06-18: Add track editing features
