@@ -19,3 +19,4 @@
 - 2025-06-20: Refactor video loader
 - 2025-06-22: Refactor video loader
 - 2025-06-25: Refactor video loader
+- 2025-06-27: Add CSV export functionality
