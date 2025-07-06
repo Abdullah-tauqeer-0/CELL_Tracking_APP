@@ -22,3 +22,4 @@
 - 2025-06-27: Add CSV export functionality
 - 2025-06-30: Update documentation
 - 2025-07-02: Add batch processing support
+- 2025-07-06: Add batch processing support
