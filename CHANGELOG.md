@@ -23,3 +23,4 @@
 - 2025-06-30: Update documentation
 - 2025-07-02: Add batch processing support
 - 2025-07-06: Add batch processing support
+- 2025-07-10: Fix memory leak in tracker
