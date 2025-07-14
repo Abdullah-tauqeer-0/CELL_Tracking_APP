@@ -25,3 +25,4 @@
 - 2025-07-06: Add batch processing support
 - 2025-07-10: Fix memory leak in tracker
 - 2025-07-12: Add track editing features
+- 2025-07-14: Improve detection accuracy
