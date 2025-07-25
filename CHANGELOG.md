@@ -28,3 +28,4 @@
 - 2025-07-14: Improve detection accuracy
 - 2025-07-17: Optimize tracking performance
 - 2025-07-21: Refactor metrics calculation
+- 2025-07-25: Refactor metrics calculation
