@@ -31,3 +31,4 @@
 - 2025-07-25: Refactor metrics calculation
 - 2025-07-28: Add track editing features
 - 2025-08-01: Fix bug in Kalman filter update
+- 2025-08-05: Add dark mode support
