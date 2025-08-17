@@ -35,3 +35,4 @@
 - 2025-08-07: Update documentation
 - 2025-08-11: Improve detection accuracy
 - 2025-08-14: Add dark mode support
+- 2025-08-17: Add support for TIFF stacks
