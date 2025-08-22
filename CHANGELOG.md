@@ -37,3 +37,4 @@
 - 2025-08-14: Add dark mode support
 - 2025-08-17: Add support for TIFF stacks
 - 2025-08-19: Add progress bar to analysis
+- 2025-08-22: Add CSV export functionality
