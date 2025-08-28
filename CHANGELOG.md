@@ -39,3 +39,4 @@
 - 2025-08-19: Add progress bar to analysis
 - 2025-08-22: Add CSV export functionality
 - 2025-08-24: Add batch processing support
+- 2025-08-28: Update unit tests
