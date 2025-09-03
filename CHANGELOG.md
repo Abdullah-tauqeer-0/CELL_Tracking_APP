@@ -41,3 +41,4 @@
 - 2025-08-24: Add batch processing support
 - 2025-08-28: Update unit tests
 - 2025-08-30: Add progress bar to analysis
+- 2025-09-03: Update documentation
