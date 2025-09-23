@@ -47,3 +47,4 @@
 - 2025-09-14: Optimize tracking performance
 - 2025-09-17: Add track editing features
 - 2025-09-19: Improve UI responsiveness
+- 2025-09-23: Fix bug in Kalman filter update
